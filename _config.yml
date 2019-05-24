@@ -9,9 +9,9 @@ baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Sungmin Ryu
+  url:               http://ryusungmin.github.io
+  email:             segost@daum.net
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
